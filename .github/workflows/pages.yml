@@ -27,11 +27,7 @@ jobs:
       - name: 🔧 Build pages
         run: |
           yarn run build-html
-      - name: 🔔 Installing required tools tools
-        if: github.event_name != 'pull_request'
-        run: |
-          apt-get update
-          apt-get install -y rsync
+
       - name: 🚀 Deploy
         if: github.event_name != 'pull_request'
         uses: JamesIves/github-pages-deploy-action@v4.4.3
