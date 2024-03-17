@@ -13,8 +13,11 @@ jobs:
   build-and-deploy:
     concurrency: ci-${{ github.ref }} # Recommended if you intend to make multiple deployments in quick succession.
     runs-on: ubuntu-22.04
-    container: node:16-buster
     steps:
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
       - name: 🛎️ Checkout
         uses: actions/checkout@v4
 
