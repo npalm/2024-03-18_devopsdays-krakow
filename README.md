@@ -1,10 +1,10 @@
 # Talk - InnerSource Odyssey: Building a Developer-Driven Ecosystem
 
-This repository has slides and demo resources for the talk **InnerSource Odyssey: Building a Developer-Driven Ecosystem** at the [devopsdays 2024, Krakow](hhttps://dodkrakow.pl/lecture-2024/#id=91833).
+This repository has slides and demo resources for the talk **InnerSource Odyssey: Building a Developer-Driven Ecosystem** at the [devopsdays 2024, Krakow](https://dodkrakow.pl/lecture-2024/#id=91833).
 
 ## Resources
 
-- [Slides](https://npalm.github.io/2024--03-18-devopsdays-krakow/)
+- [Slides](https://npalm.github.io/2024-03-18_devopsdays-krakow/)
 - [Terraform module AWS GitHub runners](https://github.com/philips-labs/terraform-aws-github-runner)
 - [GitHub ReadME project - Safer GitHub administration through IssueOps ](https://github.com/readme/guides/github-issueops-philips)
 - [Blog - data pipe](https://040code.github.io/2023/01/06/github-event-aws-eventbridge)
