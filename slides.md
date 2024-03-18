@@ -1032,6 +1032,11 @@ resource "contact" "niek" {
 
 ---
 
+
+<!--
+_footer: '![image](assets/qr-talk.png)'
+-->
+
 # Questions
 
 <style scoped>
@@ -1047,17 +1052,18 @@ h1 {
 
 ---
 
-
 <!--
 _backgroundColor: #D10077
 _color: purple
+_footer: '![image](assets/qr-talk.png)'
+
 -->
+
 
 # <!-- fit --> Thank You
 <br>
 <br>
 <br>
-
 
 
 ![bg](assets/start-finish.jpeg)
