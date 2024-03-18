@@ -66,6 +66,20 @@ Building a Developer-Driven Ecosystem
 ---
 
 
+
+<!--
+_backgroundColor: white
+_color: darkpurple
+_header: 📷 📷 📷 📷 📷 📷 📷 📷 📷 📷 📷 📷 📷 📷 📷 📷 📷 📷 📷 📷 📷 📷 📷 📷 📷 📷 📷 📷 📷 📷 📷 📷 📷 📷 📷 📷 📷 📷 📷 📷 📷 📷 📷 📷 📷 📷 📷 📷 📷 
+_footer: 📷 📷 📷 📷 📷 📷 📷 📷 📷 📷 📷 📷 📷 📷 📷 📷 📷 📷 📷 📷 📷 📷 📷 📷 📷 📷 📷 📷 📷 📷 📷 📷 📷 📷 📷 📷 📷 📷 📷 📷 📷 📷 📷 📷 📷 📷 📷 📷 📷 
+-->
+
+
+![bg](assets/qr-gh.png)
+![bg](assets/repo.png)
+
+---
+
 <!--
 _backgroundColor: #002C77
 _color: white
@@ -154,10 +168,10 @@ _color: yellow
 
 # Challenges 🤔 🤔 🤔
 
-- Collaboration
-- Manual processes
-- Manual maintained
-- Manual scaling
+- Hard to collaborate
+- Hard to scale
+- Hard to automate common tasks
+- Hard to unlock new features
 
 ---
 
@@ -754,11 +768,11 @@ h2 {
 
 # <!-- fit --> 🚀 Developer Experience 🚀
 
-## 2022 - present
+## 2023 - present
 
-* Productivity - Am I enabled?
-* Impact - Can I focus on my job?
-* Statisfaction - Do I have the right environment?
+- Productivity - Am I enabled?
+- Impact - Can I focus on my job?
+- Statisfaction - Do I have the right environment?
 
 
 ![bg right:35%](assets/lego.jpeg)
@@ -1056,7 +1070,6 @@ h1 {
 _backgroundColor: #D10077
 _color: purple
 _footer: '![image](assets/qr-talk.png)'
-
 -->
 
 
