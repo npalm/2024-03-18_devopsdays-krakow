@@ -804,7 +804,7 @@ _backgroundColor: #000000
 _color: #0072DA
 -->
 
-# 📙 Software Catalogus
+# 📙 Software Catalog
 
 
 ![50%](assets/backstage-marketplace.jpg)
@@ -817,7 +817,7 @@ _backgroundColor: #000000
 _color: #0072DA
 -->
 
-# 📙 Software Catalogus
+# 📙 Software Catalog
 
 
 ![width:1000px](assets/portal-search.jpg)
